@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "MUUGravitySlider"
-s.version      = "1.0.1"
+s.version      = "1.0.2"
 s.summary      = "UICollectionView flow layout for your iOS app"
 
 s.description  = <<-DESC
@@ -17,7 +17,7 @@ s.author             = { "muccanado" => "muccanado@gmail.com" }
 
 s.platform     = :ios, "12.1"
 
-s.source       = { :git => "https://github.com/muccanado/MUUOnboardKit.git", :tag => "v1.0.1" }
+s.source       = { :git => "https://github.com/muccanado/MUUOnboardKit.git", :tag => "v1.0.2" }
 s.source_files  = "MUUGravitySlider"
 
 end
